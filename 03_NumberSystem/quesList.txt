@@ -1,0 +1,7 @@
+Convert Binary to Decimal
+Convert binary to octal
+Decimal to Binary conversion
+Convert decimal to octal
+Convert octal to binary
+Convert octal to decimal
+Convert digits/numbers to words
